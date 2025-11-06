@@ -1,0 +1,12 @@
+<Project>
+  <PropertyGroup>
+    <!-- Common language and compilation settings -->
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    
+    <!-- Code analysis settings -->
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+    <AnalysisLevel>latest</AnalysisLevel>
+  </PropertyGroup>
+</Project>
