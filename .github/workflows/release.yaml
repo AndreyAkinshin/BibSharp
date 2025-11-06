@@ -56,7 +56,6 @@ jobs:
       uses: softprops/action-gh-release@v2
       with:
         name: BibSharp ${{ steps.get_version.outputs.VERSION }}
-        tag_name: ${{ steps.get_version.outputs.VERSION }}
         body: |
           Release of BibSharp ${{ steps.get_version.outputs.VERSION }}
           
