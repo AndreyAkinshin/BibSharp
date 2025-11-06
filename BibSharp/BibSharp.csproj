@@ -9,6 +9,7 @@
     <Description>A comprehensive .NET library for BibTeX processing</Description>
     <PackageTags>bibtex;bibliography;citation;reference-management</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
