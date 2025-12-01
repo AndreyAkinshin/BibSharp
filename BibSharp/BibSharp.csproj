@@ -9,6 +9,7 @@
     <Description>A comprehensive .NET library for BibTeX processing</Description>
     <PackageTags>bibtex;bibliography;citation;reference-management</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageProjectUrl>https://github.com/AndreyAkinshin/BibSharp</PackageProjectUrl>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageIcon>logo.png</PackageIcon>
   </PropertyGroup>
