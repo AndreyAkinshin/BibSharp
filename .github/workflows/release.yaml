@@ -62,4 +62,5 @@ jobs:
           NuGet package: https://www.nuget.org/packages/BibSharp/${{ steps.get_version.outputs.VERSION }}
         files: ./nupkg/*.nupkg
         discussion_category_name: Announcements
+        token: ${{ secrets.RELEASE_GITHUB_TOKEN }}
 
