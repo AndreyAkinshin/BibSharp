@@ -1,18 +1,10 @@
 # BibSharp
 
-<div align="center">
+![](https://raw.githubusercontent.com/AndreyAkinshin/BibSharp/refs/heads/assets/cover.png)
 
-  ![](https://raw.githubusercontent.com/AndreyAkinshin/BibSharp/refs/heads/assets/cover.png)
-
-</div>
-
-<div align="center">
-
-  [![NuGet](https://img.shields.io/nuget/v/BibSharp.svg)](https://www.nuget.org/packages/BibSharp/)
-  [![Downloads](https://img.shields.io/nuget/dt/BibSharp.svg)](https://www.nuget.org/packages/BibSharp/)
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/dotnet/BenchmarkDotNet/blob/master/LICENSE.md)
-
-</div>
+[![NuGet](https://img.shields.io/nuget/v/BibSharp.svg)](https://www.nuget.org/packages/BibSharp/)
+[![Downloads](https://img.shields.io/nuget/dt/BibSharp.svg)](https://www.nuget.org/packages/BibSharp/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/dotnet/BenchmarkDotNet/blob/master/LICENSE.md)
 
 A comprehensive, modern .NET library for BibTeX processing with a clean and intuitive API. BibSharp makes it easy to parse, manipulate, validate, and serialize BibTeX bibliography entries in your .NET applications.
 
